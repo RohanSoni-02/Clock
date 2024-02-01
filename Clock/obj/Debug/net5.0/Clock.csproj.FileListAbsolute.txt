@@ -1,0 +1,15 @@
+/Users/rohansoni/Documents/Projects/Clock/Clock/bin/Debug/net5.0/Clock.deps.json
+/Users/rohansoni/Documents/Projects/Clock/Clock/bin/Debug/net5.0/Clock.runtimeconfig.json
+/Users/rohansoni/Documents/Projects/Clock/Clock/bin/Debug/net5.0/Clock.runtimeconfig.dev.json
+/Users/rohansoni/Documents/Projects/Clock/Clock/bin/Debug/net5.0/Clock.dll
+/Users/rohansoni/Documents/Projects/Clock/Clock/bin/Debug/net5.0/ref/Clock.dll
+/Users/rohansoni/Documents/Projects/Clock/Clock/bin/Debug/net5.0/Clock.pdb
+/Users/rohansoni/Documents/Projects/Clock/Clock/obj/Debug/net5.0/Clock.csproj.AssemblyReference.cache
+/Users/rohansoni/Documents/Projects/Clock/Clock/obj/Debug/net5.0/Clock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rohansoni/Documents/Projects/Clock/Clock/obj/Debug/net5.0/Clock.AssemblyInfoInputs.cache
+/Users/rohansoni/Documents/Projects/Clock/Clock/obj/Debug/net5.0/Clock.AssemblyInfo.cs
+/Users/rohansoni/Documents/Projects/Clock/Clock/obj/Debug/net5.0/Clock.csproj.CoreCompileInputs.cache
+/Users/rohansoni/Documents/Projects/Clock/Clock/obj/Debug/net5.0/Clock.dll
+/Users/rohansoni/Documents/Projects/Clock/Clock/obj/Debug/net5.0/ref/Clock.dll
+/Users/rohansoni/Documents/Projects/Clock/Clock/obj/Debug/net5.0/Clock.pdb
+/Users/rohansoni/Documents/Projects/Clock/Clock/obj/Debug/net5.0/Clock.genruntimeconfig.cache
